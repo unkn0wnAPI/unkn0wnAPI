@@ -1,5 +1,5 @@
-<h1 align="left">Hi, I'm Jakub (unkn0wnAPI)</h1>
-<p align="left">Student, Network Engineer & System Administrator</p>
+<h1 align="center">Hi, I'm Jakub (unkn0wnAPI)</h1>
+<p align="center">Student, Network Engineer & System Administrator</p>
 <h2 align="left">About Me</h1>
 
 - 🔭 I’m currently working on [a collection of SysAdmin Scripts](https://github.com/unkn0wnAPI/sysadmin-scripts)
