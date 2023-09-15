@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend, Networking & IT Systems Administration (College)**
 
-- 👨‍💻 All of my projects are available at [https://unkn0wnapi.github.io/](https://unkn0wnapi.github.io/)
+- 👨‍💻 All of my projects are available at [https://unkn0wnapi.github.io/projects](https://unkn0wnapi.github.io/projects)
 
 - ⚡ Fun fact **I only use T-568B Standard**
 
