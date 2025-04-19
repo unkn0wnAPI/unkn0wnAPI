@@ -22,4 +22,4 @@
 </p>
 
 ### Github Stats
-<a href="http://www.github.com/unkn0wnAPI"><img src="https://selfhosted-gh-stats.vercel.app/api?username=unkn0wnAPI&show_icons=true&theme=radical"></a>
+<a href="http://www.github.com/unkn0wnAPI"><img src="https://selfhosted-gh-stats.vercel.app/api?username=unkn0wnAPI&show_icons=true&theme=jolly"></a>
