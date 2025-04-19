@@ -21,5 +21,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="python" width="40" height="40"/>
 </p>
 
-### My Github Stats
+### Github Stats
 <a href="http://www.github.com/unkn0wnAPI"><img src="https://selfhosted-gh-stats.vercel.app/api?username=unkn0wnAPI&show_icons=true&theme=radical"></a>
